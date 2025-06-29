@@ -46,10 +46,6 @@ macro avg           0.91      0.91      0.91       500
 weighted avg        0.91      0.92      0.91       500
 ```
 
-### Key Performance Highlights
-- **Best Performing Class**: Class D with 99% precision and 100% recall
-- **Most Challenging Class**: Class E with 84% precision and 75% recall
-- **Balanced Performance**: Macro average F1-score of 0.91 across all classes
 
 ## Technical Stack
 
